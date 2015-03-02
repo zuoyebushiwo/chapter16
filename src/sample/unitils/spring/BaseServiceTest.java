@@ -9,6 +9,7 @@ import org.unitils.spring.annotation.SpringApplicationContext;
 
 @SpringApplicationContext({ "baobaotao-service.xml", "baobaotao-dao.xml" })
 public class BaseServiceTest extends UnitilsJUnit4 {
+	
 	@SpringApplicationContext
 	public ApplicationContext applicationContext;
 
