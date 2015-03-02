@@ -92,5 +92,12 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/hamcrest-all-1.3.0RC2.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-mock-3.1.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-core-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-database-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-dbunit-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-orm-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-spring-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/unitils-testng-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/servlet-api-6.0.16.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
